@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CicloDeVida</string>
+    <string name="btIncr">Suma 1</string>
+    <string name="btMostrar">Mostrar</string>
+</resources>
